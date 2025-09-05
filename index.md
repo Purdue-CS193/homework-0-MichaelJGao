@@ -1,27 +1,11 @@
-## Welcome to GitHub Pages
+#Michael's First CS193 Homework
+- I like that CS 193 is taught by TAs
+- I like that there is blocked-out time for office hours
+- I like that the homework assignments are not submitted on BrightSpace
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_This is some italic text_, **while this is some bold text**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. Hello my name is michael.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
